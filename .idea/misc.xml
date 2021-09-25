@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Beuni/Desktop/SLIIT/Y2S2/MAD IT2010/tutorial/Kiddoo/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2703125" />
+        <entry key="..\:/Users/Beuni/Desktop/SLIIT/Y2S2/MAD IT2010/tutorial/Kiddoo/app/src/main/res/layout/activity_add_factors.xml" value="0.1" />
+        <entry key="..\:/Users/Beuni/Desktop/SLIIT/Y2S2/MAD IT2010/tutorial/Kiddoo/app/src/main/res/layout/activity_animals_pg.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Beuni/Desktop/SLIIT/Y2S2/MAD IT2010/tutorial/Kiddoo/app/src/main/res/layout/activity_calculator.xml" value="0.16" />
+        <entry key="..\:/Users/Beuni/Desktop/SLIIT/Y2S2/MAD IT2010/tutorial/Kiddoo/app/src/main/res/layout/activity_calculator_ui.xml" value="0.264" />
+        <entry key="..\:/Users/Beuni/Desktop/SLIIT/Y2S2/MAD IT2010/tutorial/Kiddoo/app/src/main/res/layout/activity_colours_pg.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Beuni/Desktop/SLIIT/Y2S2/MAD IT2010/tutorial/Kiddoo/app/src/main/res/layout/activity_edit_ui.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Beuni/Desktop/SLIIT/Y2S2/MAD IT2010/tutorial/Kiddoo/app/src/main/res/layout/activity_main.xml" value="0.24010416666666667" />
+        <entry key="..\:/Users/Beuni/Desktop/SLIIT/Y2S2/MAD IT2010/tutorial/Kiddoo/app/src/main/res/layout/activity_main2.xml" value="0.264" />
+        <entry key="..\:/Users/Beuni/Desktop/SLIIT/Y2S2/MAD IT2010/tutorial/Kiddoo/app/src/main/res/layout/activity_multiply_ui.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Beuni/Desktop/SLIIT/Y2S2/MAD IT2010/tutorial/Kiddoo/app/src/main/res/layout/activity_second_page.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Beuni/Desktop/SLIIT/Y2S2/MAD IT2010/tutorial/Kiddoo/app/src/main/res/layout/activity_second_pg.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Beuni/Desktop/SLIIT/Y2S2/MAD IT2010/tutorial/Kiddoo/app/src/main/res/layout/activity_to_memorize.xml" value="0.15254237288135594" />
+        <entry key="..\:/Users/Beuni/Desktop/SLIIT/Y2S2/MAD IT2010/tutorial/Kiddoo/app/src/main/res/layout/correct_toast.xml" value="0.14492753623188406" />
+        <entry key="..\:/Users/Beuni/Desktop/SLIIT/Y2S2/MAD IT2010/tutorial/Kiddoo/app/src/main/res/layout/factor_item_list.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Beuni/Desktop/SLIIT/Y2S2/MAD IT2010/tutorial/Kiddoo/app/src/main/res/layout/factors_list.xml" value="0.24818840579710144" />
+        <entry key="..\:/Users/Beuni/Desktop/SLIIT/Y2S2/MAD IT2010/tutorial/Kiddoo/app/src/main/res/layout/factorsdata.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Beuni/Desktop/SLIIT/Y2S2/MAD IT2010/tutorial/Kiddoo/app/src/main/res/layout/image_container.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Beuni/Desktop/SLIIT/Y2S2/MAD IT2010/tutorial/Kiddoo/app/src/main/res/layout/imageui.xml" value="0.25416666666666665" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
