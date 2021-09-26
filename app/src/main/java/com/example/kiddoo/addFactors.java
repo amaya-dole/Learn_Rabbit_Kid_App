@@ -44,6 +44,7 @@ public class addFactors extends AppCompatActivity {
             num3.setText(bundle.getString("num3"));
             edit.setVisibility(View.VISIBLE);
             save.setVisibility(View.GONE);
+            home.setVisibility(View.GONE);
 
         }
     }
